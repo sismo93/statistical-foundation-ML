@@ -1,2 +1,2 @@
-# INFO-F422-statistical-foundation-of-ML-master
+# statistical foundation of ML comparaison algorithm 
  
