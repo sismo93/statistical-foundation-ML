@@ -1,0 +1,36 @@
+
+
+                    classification          regression
+synthetised         compare 3 !=            same
+data                algorithms
+
+                    discuss parameters 
+
+real data
+
+
+# Dataset :
+
+get from kaggle, google data, ml repository
+generate dataset yourself
+
+importance of feature choice
+
+example : handwritten image in pixel
+feature will be : covering of black pixel in image, symmetry of pixel along y axis, etc.
+
+
+# analysis
+
+number of parameters that has to be learned
+
+comparison with linear model. If you cannot do better than linear model you have a problem.
+
+overfitting. If you have small dataset dont use too much parameters. risk of overfitting. perfect model wich seperate noise is very bad (overfitting). Watch lecture 4.
+
+other parameter. Example leraing rate for perceptron. What good value ? Use validation set. In oreder to fix the right value. 
+test set. you dont use the during training and you dont use them in validation. 
+
+theory of generalisation : in wich situtation you can generalise. what parameter you have to learn. You must have at least 10 times more vc than ???
+
+Bias variance tradeoff. i have 10 diff trainin set. If i only use few parameter. i cannot find the 
