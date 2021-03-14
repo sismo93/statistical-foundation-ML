@@ -1,2 +1,2 @@
-# statistical foundation of ML comparaison algorithm 
+# Statistical Foundation of ML algorithms
  
