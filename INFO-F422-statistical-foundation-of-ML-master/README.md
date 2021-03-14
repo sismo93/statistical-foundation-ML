@@ -1,1 +1,1 @@
-# INFO-F422-statistical-foundation-of-ML
+# statistical foundation Analysis and Implemententation of the most populaire ML algorithmes
